@@ -9,6 +9,7 @@
         ,
         {
             "name": "$XSAPPNAME.Viewer",
+            "granted-apps": ["$XSAPPNAME(application,app"],
              "description": "Viewer"
         },
         {
