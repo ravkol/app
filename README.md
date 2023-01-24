@@ -1,2 +1,2 @@
 # app - App
-> Ravi's Business Application
+> My Business Application
