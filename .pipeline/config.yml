@@ -37,6 +37,7 @@ stages:
 steps:
   artifactPrepareVersion:
     versioningType: "cloud_noTag"
+    
   npmExecuteLint:
     failOnError: true
 
